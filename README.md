@@ -13,13 +13,23 @@
 ```
 
 ---
-### ❓About me
+- ## ❓About me
 
-[Github](https://github.com/danielhw99/Lee-HyungWook)
+  **[Github](https://github.com/danielhw99/Lee-HyungWook)**
 
-[Blog](https://velog.io/@danielhw99/posts)
-Email: danielhw99@gmail.com
+  **[Blog](https://velog.io/@danielhw99/posts)**
+
+  **Email: danielhw99@gmail.com**
 
 ---
-### Projects
-올릴 예정!
+- ## Skill
+- ### Stack
+      C, C++, Python, Java, JavaScript
+      Vue, String
+- ### Strong
+      협력, 소통
+- ### Knowledgable
+      CompilerGym, React, Typescript, C#
+- ### ETC
+      Git, MongoDB, AWS
+ 
